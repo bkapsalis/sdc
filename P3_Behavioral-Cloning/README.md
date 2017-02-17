@@ -6,3 +6,4 @@ The goals / steps of this project are the following:
 * Train and validate the model with a training and validation set
 * Test that the model successfully drives around track one without leaving the road
 * Summarize the results P3-Behavioral-Cloning-Report.ipynb
+* [Link to autonomously driving video](https://www.youtube.com/watch?v=nyv6gZcqSPE&t=27s)
